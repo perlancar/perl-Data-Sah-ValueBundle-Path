@@ -1,0 +1,4 @@
+0.001   2023-03-30  Released-By: PERLANCAR
+
+        - First release, moved Data::Sah::Value::perl::Path::filenames from
+          Data-Sah-DefaultValue.
